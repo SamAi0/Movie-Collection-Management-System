@@ -1,0 +1,56 @@
+[
+    {
+        "movie_id": "M101",
+        "movie_name": "Interstellar",
+        "genre": "Sci-Fi",
+        "release_year": 2014,
+        "language": "English",
+        "rating": 8.7,
+        "director": "Christopher Nolan"
+    },
+    {
+        "movie_id": "M102",
+        "movie_name": "Inception",
+        "genre": "Sci-Fi",
+        "release_year": 2010,
+        "language": "English",
+        "rating": 8.8,
+        "director": "Christopher Nolan"
+    },
+    {
+        "movie_id": "M103",
+        "movie_name": "3 Idiots",
+        "genre": "Comedy/Drama",
+        "release_year": 2009,
+        "language": "Hindi",
+        "rating": 8.4,
+        "director": "Rajkumar Hirani"
+    },
+    {
+        "movie_id": "M104",
+        "movie_name": "The Dark Knight",
+        "genre": "Action/Crime",
+        "release_year": 2008,
+        "language": "English",
+        "rating": 9.0,
+        "director": "Christopher Nolan"
+    },
+    {
+        "movie_id": "M105",
+        "movie_name": "Dangal",
+        "genre": "Biography/Drama",
+        "release_year": 2016,
+        "language": "Hindi",
+        "rating": 8.3,
+        "director": "Nitesh Tiwari"
+    },
+    {
+        "movie_id": "A TO Z",
+        "movie_name": "The Paradise",
+        "genre": "Action",
+        "release_year": 2026,
+        "language": "Hindi",
+        "rating": 7.4,
+        "director": "Srikanth Odela"
+    }
+]
