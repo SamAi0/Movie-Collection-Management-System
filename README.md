@@ -67,13 +67,10 @@ The system enables users to manage a personal or institutional movie collection 
 ```text
 Movie-Collection-Management-System/
 │
+└── screenshots/             # Folder containing console execution images
 ├── movie_management.py      # Main executable console application
 ├── movies.json              # Persistent JSON database (contains sample records)
 ├── README.md                # Project documentation and guide
-├── Assignment_Report.md     # Comprehensive academic report for MCA Sem I
-│
-└── screenshots/             # Folder containing console execution images
-    └── README.md            # Guidelines on required screenshots
 ```
 
 ---
